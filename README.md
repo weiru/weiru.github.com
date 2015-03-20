@@ -1,8 +1,5 @@
 # weiru.github.com
 
-/*
- * Copyright (c) 2015 Taiwan Semiconductor Manufacturing Company, Limited. ALL RIGHTS RESERVED.
- */
 package wjtaia.test;
 
 import java.io.BufferedReader;
@@ -13,11 +10,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- *
- *
- * @author wjtaia AT tsmc DOT com
- */
 public class ShortestPath
 {
     final int INFINITE = 9999;
